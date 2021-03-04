@@ -1,0 +1,22 @@
+<svg width="330" height='330' xmlns="http://www.w3.org/2000/svg">
+ <!-- Created with Method Draw - http://github.com/duopixel/Method-Draw/ -->
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="332" width="332" y="-1" x="-1"/>
+  <g display="none" overflow="visible" y="0" x="0" height="100%" width="100%" id="canvasGrid">
+   <rect fill="url(#gridpattern)" stroke-width="0" y="0" x="0" height="100%" width="100%"/>
+  </g>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <rect rx="10" id="svg_1" height="330" width="15" y="0" x="100" stroke-width="1.5" stroke="#eeeff0" fill="#000000"/>
+  <rect rx="10" id="svg_2" height="330" width="15" y="0" x="215" stroke-width="1.5" stroke="#eeeff0" fill="#000"/>
+  <text font-weight="normal" stroke="#ffffff" transform="matrix(4.518279010330235,0,0,3.155976311390326,-1936.8727938891839,-411.04500880362025) " xml:space="preserve" text-anchor="start" font-family="'Simonetta', serif" font-size="24" id="svg_5" y="157" x="157" stroke-width="0" fill="#000000">4</text>
+  <text font-weight="bold" stroke="#ffffff" transform="rotate(-0.20619834959506989 277.693511962864,280.41601562499505) matrix(5.029871368858995,0,0,3.430957991678567,-1953.5652929381708,-337.1564109405885) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_6" y="188.22075" x="436.92227" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">4</text>
+  <text font-weight="bold" stroke="#ffffff" transform="matrix(5.229014187424211,0,0,3.4212585737408805,-1965.4647273960181,-275.451019802794) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_7" y="103.43988" x="379.17626" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">1</text>
+  <text font-weight="bold" stroke="#ffffff" transform="matrix(5.198173729975417,0,0,3.4056617969459664,-2279.5952111056567,-499.86695096457413) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_8" y="203.54391" x="463.92325" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">2</text>
+  <text font-weight="bold" stroke="#ffffff" transform="matrix(4.965003051603999,0,0,3.3605345506882123,-1977.7507543944168,-428.89241272102964) " xml:space="preserve" text-anchor="start" font-family="Helvetica, Arial, sans-serif" font-size="24" id="svg_9" y="218.96594" x="401.96769" fill-opacity="null" stroke-opacity="null" stroke-width="0" fill="#000000">3</text>
+  <rect rx="10" id="svg_10" height="15" width="330" y="100" x="0" stroke-width="1.5" stroke="#eeeff0" fill="#000"/>
+  <rect rx="10" id="svg_11" height="15" width="330" y="215" x="0" stroke-width="1.5" stroke="#eeeff0" fill="#000"/>
+ </g>
+</svg>
